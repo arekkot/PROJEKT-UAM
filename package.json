@@ -15,12 +15,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/arekkot/Pizza-Projekt-UAM.git"
+    "url": "git+https://github.com/arekkot/PROJEKT-UAM.git"
   },
   "author": "arekkot",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/arekkot/Pizza-Projekt-UAM/issues"
+    "url": "https://github.com/arekkot/PROJEKT-UAM/issues"
   },
-  "homepage": "https://github.com/arekkot/Pizza-Projekt-UAM#readme"
+  "homepage": "https://github.com/arekkot/PROJEKT-UAM#readme"
 }
