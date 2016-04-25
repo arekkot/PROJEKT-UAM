@@ -1,0 +1,12 @@
+{
+  "name": "project",
+  "description": "projekt pizzeri w angualrze",
+  "main": "bulid/index.html",
+  "license": "ISC",
+  "homepage": "https://github.com/arekkot/Pizza-Projekt-UAM",
+  "moduleType": [
+    "es6",
+    "globals",
+    "node"
+  ]
+}
